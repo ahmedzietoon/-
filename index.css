@@ -4,7 +4,7 @@
 body{
     font-family: tahoma;
     background-color: #AFB4FF;
-    background-image: url('../imgs/overlay.png');
+    background-image: url('imgs/overlay.png');
     background-blend-mode:screen    ;
     color: #241f36eb;
     text-transform: capitalize;
